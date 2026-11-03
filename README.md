@@ -30,7 +30,7 @@ make
 ./abi_check ~/ttsim/src/_out/release_bh/libttsim.so 1000000
 ```
 
-## Results (M-series Mac, release builds, 1,000,000 clocks)
+## Results (Apple Silicon Mac, release builds, 1,000,000 clocks)
 
 | config | endpoints found | checks passed | idle clock rate |
 |---|---|---|---|
